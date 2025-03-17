@@ -137,11 +137,6 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=1739824070195
 https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
 
-#EXTINF:-1 tvg-id="Zee Anmol Cinema" tvg-logo="https://multireach.in/wp-content/uploads/2020/10/zeeanmolcinema-1.jpg" group-title="Hindi Movies",Zee Anmol Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=15
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-
 #EXTINF:-1 tvg-id="SSC_EXTRA2" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-2.png" group-title="Sports",SSC_EXTRA2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=226
@@ -151,26 +146,6 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=74
 https://OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6twfogu6go/out/v1/fe3c6ff9c8d94b2187e2e87b4edacca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="HBO_2" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" group-title="Movies",HBO_2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=65
-https://OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/thnqxvegdx/out/v1/526198daa2954295908c9e5e22523bc2/cenc.mpd
-
-#EXTINF:-1 tvg-id="HBO_COMEDY" tvg-logo="https://c3.klipartz.com/pngpicture/151/793/sticker-png-tv-channel-icons-pack-hbo-comedy-color-thumbnail.png" group-title="Movies",HBO_COMEDY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=67
-https://OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ejmisemcpz/out/v1/9e10d2bc67434f7d95911c3e695ce087/cenc.mpd
-
-#EXTINF:-1 tvg-id="HBO_FAMILY" tvg-logo="https://w7.pngwing.com/pngs/534/400/png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family-thumbnail.png" group-title="Movies",HBO_FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=64
-https://OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/knudgtmjx3/out/v1/b48530b4331a4339ae7eea9e2d830c74/cenc.mpd
-
-#EXTINF:-1 tvg-id="SCREENPIX_ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ScreenPix_Action.png/revision/latest/scale-to-width-down/1200?cb=20221116050229" group-title="Movies",SCREENPIX_ACTION
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xenolive.xyz/playlist/playlist/keys.php?id=72
-https://OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd
 
 #EXTINF:-1 tvg-id="NBC GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurc7jgzeg9uvKKiA8PIulAVJyWsKRN-tUlw&s" group-title="Sports",NBC GOLF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
