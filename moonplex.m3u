@@ -62,3 +62,16 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" group-title="Indian",CNN HD
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo Bollywood" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood/630e1f94dde715ef7c000076/large_16_9_webp_1661880865.webp" group-title="Indian",CNN HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="bollywood hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0X2xdLJX_4D-Fnwblbjx-PCPlV4IBpCUDw&s" group-title="Indian",CNN HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
+#EXTINF:-1 tvg-name="M_Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtRGDuduinzllKz4CtY7Lr0q-loAOFEJMeFA&s" group-title="Indian",CNN HD
+http://103.101.197.10:8989/M_Movies/index.m3u8
+
+#EXTINF:-1 tvg-name="R Bangla Binodon" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1WaOZFHj3ij5OQvk-C4Bnk-4eaocGWk7b0WtCIxFWpWc=s900-c-k-c0x00ffffff-no-rj" group-title="Indian",CNN HD
+http://150.129.178.198:8086/0.ts
+
