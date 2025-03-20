@@ -74,4 +74,5 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 #EXTINF:-1 tvg-name="R Bangla Binodon" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1WaOZFHj3ij5OQvk-C4Bnk-4eaocGWk7b0WtCIxFWpWc=s900-c-k-c0x00ffffff-no-rj" group-title="Indian",CNN HD
 http://150.129.178.198:8086/0.ts
-
+#EXTINF:-1 tvg-name="Disnay HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2230f3-d395-4701-9831-457e72d51cdf/df2c70m-79fbd2c0-af87-4190-836a-df30345048db.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmMjIzMGYzLWQzOTUtNDcwMS05ODMxLTQ1N2U3MmQ1MWNkZlwvZGYyYzcwbS03OWZiZDJjMC1hZjg3LTQxOTAtODM2YS1kZjMwMzQ1MDQ4ZGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mjQbjzrTKOqVFpDWUzk6QZzVaoZzs3Hp6JSoobvqSAk" group-title="Indian",Disnay HD
+https://uxplaylists-testing.vercel.app/vocotv.php?id=694193
